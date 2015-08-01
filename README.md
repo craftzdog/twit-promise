@@ -1,7 +1,7 @@
 twit-promise
 ============
 
-A wrapper for the Twit module that its get/post methods return the native promise
+A wrapper for the [Twit](/ttezel/twit) module that its get/post methods return the native promise
 
 ## Usage
 
