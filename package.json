@@ -1,0 +1,27 @@
+{
+  "name": "twit-promise",
+  "version": "2.1.0",
+  "description": "A wrapper for the Twit module that its get/post methods return the native promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noradaiko/twit-promise.git"
+  },
+  "author": "Takuya Matsuyama <nora@odoruinu.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noradaiko/twit-promise/issues"
+  },
+  "homepage": "https://github.com/noradaiko/twit-promise#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "nock": "^2.9.1",
+    "should": "^7.0.2"
+  },
+  "dependencies": {
+    "twit": "^2.1.0"
+  }
+}
